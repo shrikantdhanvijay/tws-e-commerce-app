@@ -36,7 +36,7 @@ const Footer = () => {
               <p className="mt-6">Bihar, India</p>
 
               <a href="mailto:iemafzalhassan@gmail.com" className="block mt-3">
-                iemafzalhassan@gmail.com
+                shrikantdhanvijay@gmail.com
               </a>
               <a href="tel:+91 9400344657" className="block mt-1">
                 +91 9400344657
@@ -215,7 +215,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="font-medium hover:text-primary transition-all duration-300 hover:underline decoration-primary decoration-2 underline-offset-4"
             >
-              Md. Afzal Hassan Ehsani
+              Mr. Shrikant shamrao dhanvijay
             </a>
           </div>
           
